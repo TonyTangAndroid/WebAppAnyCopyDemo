@@ -38,7 +38,7 @@ to
   }
 
 
-6，replace parse server from https://api.parse.com/1 to https://parse.anycopy.io/devil under folder /node_modules.
+6，replace parse server from https://api.parse.com/1 to https://parse.anycopy.io/demo under folder /node_modules.
 7, gulp build 			# change some stuff and make sure it works, then run
 8, remove
   <script type=text/javascript src=http://localhost:8080/docs/bundle.js charset=utf-8></script>
